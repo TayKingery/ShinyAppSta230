@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+    <name><![CDATA[United States Border Patrol interior checkpoints]]></name>
+    <open>1</open>
+    <Folder>
+        <name><![CDATA[California]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[San Clementes Checkpoint]]></name>
+            <Point>
+                <coordinates>-117.525555555556,33.3525,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#California">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Temecula Checkpoint]]></name>
+            <Point>
+                <coordinates>-117.134722222222,33.4469444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#California">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[I-8 West Checkpoint]]></name>
+            <Point>
+                <coordinates>-116.496388888889,32.7972222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#California">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Highway 94 Checkpoint]]></name>
+            <Point>
+                <coordinates>-116.818611111111,32.6641666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#California">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Highway 78/86 Checkpoint]]></name>
+            <Point>
+                <coordinates>-115.854722222222,33.125,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#California">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Highway 111 Checkpoint]]></name>
+            <Point>
+                <coordinates>-115.644722222222,33.3602777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#California">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Arizona]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[Yuma Checkpoint]]></name>
+            <Point>
+                <coordinates>-114.363888888889,32.6597222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[AZ I-19 Checkpoint]]></name>
+            <Point>
+                <coordinates>-111.061111111111,31.6616666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Arivaca Road Checkpoint]]></name>
+            <Point>
+                <coordinates>-111.079722222222,31.7261111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[AZ Hwy 286 Checkpoint]]></name>
+            <Point>
+                <coordinates>-111.424722222222,31.8283333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[AZ Hwy 86 Checkpoint]]></name>
+            <Point>
+                <coordinates>-111.375,32.0647222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Indian Highway 15 Checkpoint]]></name>
+            <Point>
+                <coordinates>-111.929166666667,32.5508333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[AZ Highway 90 Checkpoint]]></name>
+            <Point>
+                <coordinates>-110.349722222222,31.7494444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[AZ Highway 80 Checkpoint]]></name>
+            <Point>
+                <coordinates>-110.0975,31.7491666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#15]]></name>
+            <Point>
+                <coordinates>14.2432,33.259464,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Why Checkpoint]]></name>
+            <Point>
+                <coordinates>-112.759166666667,32.2025,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Gila Bend Checkpoint]]></name>
+            <Point>
+                <coordinates>-112.841944444444,32.7147222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Arizona">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[New Mexico]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[I-10 West Checkpoint]]></name>
+            <Point>
+                <coordinates>-107.121111111111,32.2502777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#New_Mexico">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[I-25 North Checkpoint]]></name>
+            <Point>
+                <coordinates>-106.945,32.5972222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#New_Mexico">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[US 70 Checkpoint]]></name>
+            <Point>
+                <coordinates>-106.181666666667,32.7652777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#New_Mexico">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Alamogordo Checkpoint]]></name>
+            <Point>
+                <coordinates>-106.028333333333,32.5286111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#cite_ref-12">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Columbus Checkpoint]]></name>
+            <Point>
+                <coordinates>-107.679166666667,31.9644444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#cite_ref-12">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Radium Springs Checkpoint]]></name>
+            <Point>
+                <coordinates>-107.021388888889,32.6033333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#cite_ref-12">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+    </Folder>
+    <Folder>
+        <name><![CDATA[Texas]]></name>
+        <open>1</open>
+        <Placemark>
+            <name><![CDATA[U.S. Route 62 Checkpoint]]></name>
+            <Point>
+                <coordinates>-105.918055555556,31.8263888888889,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sierra Blanca Checkpoint]]></name>
+            <Point>
+                <coordinates>-105.429722222222,31.1916666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Eagle Pass Checkpoint]]></name>
+            <Point>
+                <coordinates>-100.368055555556,28.7972222222222,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Carrizo Springs Checkpoint]]></name>
+            <Point>
+                <coordinates>-100.059166666667,28.6258333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Uvalde Checkpoint]]></name>
+            <Point>
+                <coordinates>-99.9425,29.2161111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Del Rio Checkpoint]]></name>
+            <Point>
+                <coordinates>-100.829444444444,29.7133333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Laredo Checkpoint]]></name>
+            <Point>
+                <coordinates>-99.3938888888889,27.905,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Laredo 83 Checkpoint]]></name>
+            <Point>
+                <coordinates>-99.5275,27.9869444444444,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Freer Checkpoint]]></name>
+            <Point>
+                <coordinates>-98.8455555555555,27.7741666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Oilton Checkpoint]]></name>
+            <Point>
+                <coordinates>-98.8875,27.4433333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Falfurrias Checkpoint]]></name>
+            <Point>
+                <coordinates>-98.1383333333333,27.025,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Sarita Checkpoint]]></name>
+            <Point>
+                <coordinates>-97.7941666666667,27.0161111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hebbronville Checkpoint]]></name>
+            <Point>
+                <coordinates>-98.6933333333333,27.2830555555556,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Hebbronville2 Checkpoint]]></name>
+            <Point>
+                <coordinates>-98.6630555555556,27.2966666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Alpine Checkpoint]]></name>
+            <Point>
+                <coordinates>-103.579444444444,30.1983333333333,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[Brownsville Checkpoint]]></name>
+            <Point>
+                <coordinates>-97.3719444444444,25.9236111111111,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#40]]></name>
+            <Point>
+                <coordinates>-104.049444444444,30.2516666666667,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+        <Placemark>
+            <name><![CDATA[#41]]></name>
+            <Point>
+                <coordinates>-103.238333333333,30.1377777777778,0</coordinates>
+            </Point>
+            <Snippet></Snippet>
+            <description><![CDATA[<br>Source: Wikipedia article <a href="https://en.wikipedia.org/wiki/United_States_Border_Patrol_interior_checkpoints#Texas">United States Border Patrol interior checkpoints</a>]]></description>
+        </Placemark>
+    </Folder>
+</Document>
+</kml>
